@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class Amstrong_number {
     static void checkArmstrong(int num) {

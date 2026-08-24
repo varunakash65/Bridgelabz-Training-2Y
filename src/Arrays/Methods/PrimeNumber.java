@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class PrimeNumber {
     static void checkPrime(int num) {

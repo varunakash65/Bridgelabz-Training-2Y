@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class Palindrome { static void checkPalindrome(int num) {
         int original = num;

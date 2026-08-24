@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class SumOfDigits {
     static void sumDigits(int num) {

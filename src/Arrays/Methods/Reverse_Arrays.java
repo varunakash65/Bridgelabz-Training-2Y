@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class Reverse_Arrays {
     static void reverse(int arr[]) {

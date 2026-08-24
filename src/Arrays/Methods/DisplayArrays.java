@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class DisplayArrays {
     static void display(int arr[]) {

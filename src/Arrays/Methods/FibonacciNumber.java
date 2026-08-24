@@ -1,4 +1,4 @@
-package Methods;
+package Arrays.Methods;
 
 public class FibonacciNumber {
     static void fibonacci(int n) {
